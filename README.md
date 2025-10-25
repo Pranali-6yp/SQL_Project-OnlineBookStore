@@ -28,7 +28,7 @@ FROM
 
 # Repository Structure
 •	Dataset: <a href="https://github.com/Pranali-6yp/SQL_Project-OnlineBookStore/blob/main/Books.csv" </a> <br>
-            <a href= </a> <br>
+            <a href="https://github.com/Pranali-6yp/SQL_Project-OnlineBookStore/blob/main/Customers.csv" </a> <br>
 •	SQL_Scripts: <br>
 
 
