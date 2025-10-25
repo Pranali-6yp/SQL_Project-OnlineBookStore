@@ -27,7 +27,8 @@ FROM
     book_online;
 
 # Repository Structure
-•	Dataset: <br>
+•	Dataset: <a href="https://github.com/Pranali-6yp/SQL_Project-OnlineBookStore/blob/main/Books.csv" </a> <br>
+            <a href= </a> <br>
 •	SQL_Scripts: <br>
 
 
